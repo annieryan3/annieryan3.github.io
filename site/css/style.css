@@ -1,0 +1,72 @@
+
+h1 {
+    color: #f0a5d4;
+    font-family: "Barlow", serif;
+    
+}
+h2 {
+font-family: "Barlow", serif;
+font-size: 2em;
+font-weight: 700;
+color: #f0a5d4;
+line-height: 3;
+
+}
+h3 {
+    font-family: "Barlow", serif;
+    color: #a5e1f0;
+}
+h4 { font-family: "Barlow", serif;
+    color: #a8eeb6;
+
+}
+
+body {
+    font-family: "Prompt", serif;
+    font-size: 14px;
+    font-size: 14px;
+    background-color: #a2a196;
+}
+main {
+    background-color: #fefefe;
+}
+header,
+footer {
+    text-align: center;
+    padding: 3em 0;
+}
+header img {
+    width:15%;
+    padding: 0 0 2em 0;
+}
+a { 
+    text-decoration:none;
+}
+nav {
+    word-spacing: 2em;
+}
+nav a {
+    text-transform: uppercase;
+    color: #fefefe;
+}
+section {
+    margin: 5em 0;
+}
+main {
+    padding: 0 0 5em 0;
+}
+.links,
+header {
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Barlow", serif;
+    letter-spacing: 1px;
+}
+.links a {
+    color: #1c1c1c
+}
+footer a {
+    color: #fefefe
+}
